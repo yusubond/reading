@@ -20,6 +20,7 @@
 
 ### 计算机科学
 
+1. 《现代C++教程:快速上手C++11/14/17/20》,[中],欧长坤,2021年8月
 1. 《Effective C++》第三版,[美]Scott Meyers,2021年8月
 1. 《C++ Primer Plus》Fifth Edition,[美]Stanley B.Lippman,2021年8月
 1. 《代码大全》2021年4月

@@ -18,6 +18,7 @@
 
 ### 计算机科学
 
+1. [《垃圾回收的算法与实现》](https://book.douban.com/subject/26821357/),[日],中村成洋,2022年7月
 1. 《现代C++教程:快速上手C++11/14/17/20》,[中],欧长坤,2021年8月
 1. 《Effective C++》第三版,[美]Scott Meyers,2021年8月
 1. 《C++ Primer Plus》Fifth Edition,[美]Stanley B.Lippman,2021年8月

@@ -34,6 +34,7 @@ ps: [那些有意义的图片](images/readme.md)
 
 ### 经济，商业，互联网
 
+1. [《王二的经济学故事》](https://book.douban.com/subject/10733032/)，郭凯，2023年5月
 1. [《纳瓦尔宝典》](https://book.douban.com/subject/35876121/),埃里克·乔根森,2023年1月
 1. [《变革中国》](notebook/reforming_china2.md),罗纳德·哈里·科斯,2018年
 1. 《激荡的百年史》,[日]吉田茂,2018年
